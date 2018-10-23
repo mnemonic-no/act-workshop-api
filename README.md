@@ -22,7 +22,7 @@ You will need python3 and the following python libraries:
 
 ### Install using pipenv
 ```
-$ pip3 install pipenv
+$ sudo pip3 install pipenv
 $ pipenv install
 $ pipenv install act-api ipykernel jupyter
 ```
