@@ -1,6 +1,6 @@
 # Assignments for the ACT API
 
-This repository contains a [jupyter](http://jupyter.org) workbook with a short introduction and assignements to famaliarize with the
+This repository contains a [jupyter](http://jupyter.org) workbook with a short introduction and assignements to familiarize with the
 [ACT api](https://github.com/mnemonic-no/act-platform).
 
 You can find the solution to the assignments in the [solution branch](https://github.com/mnemonic-no/act-workshop-api/blob/solution/api-notebook.ipynb).
