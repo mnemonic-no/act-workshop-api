@@ -60,4 +60,4 @@ jupyter notebook --no-browser
 # Platforms tested
 
 * Debian, using python 3.5
-* Linux subsystem (Ubuntu) on windows. (Requires installation of python3-pip - `sudo apt install python3-pip`)
+* [Linux subsystem (Ubuntu)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) on windows. (Requires installation of python3-pip - `sudo apt install python3-pip`)
