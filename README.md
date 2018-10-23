@@ -20,32 +20,27 @@ You will need python3 and the following python libraries:
 * ipykernel
 * jupyter
 
-Install using pipenv
+### Install using pipenv
 ```
 $ pip3 install pipenv
 $ pipenv install
+$ pipenv install act-api ipykernel jupyter
 ```
 
-Install using pip:
+### or Install using pip:
 
 ```
-$ pip3 install act-api ipykernel jupyter
-```
-
-Install using pipenv
-```
-$ pip3 install pipenv
-$ pipenv install
+$ sudo pip3 install act-api ipykernel jupyter
 ```
 
 # Start notebook
 
-After installation with pipenv
+### After installation with pipenv
 ```
 pipenv run jupyter notebook
 ```
 
-Or with jupyter installed globally
+### Or with jupyter installed globally
 
 ```
 jupyter notebook
