@@ -1,6 +1,6 @@
 # Assignments for the ACT API
 
-This repository contains a [jupyter](http://jupyter.org) workbook with a short introduction and assignements to famaliarize with the
+This repository contains a [jupyter](http://jupyter.org) workbook with a short introduction and assignements to familiarize with the
 [ACT api](https://github.com/mnemonic-no/act-platform).
 
 You can find the solution to the assignments in the [solution branch](https://github.com/mnemonic-no/act-workshop-api/blob/solution/api-notebook.ipynb).
@@ -20,32 +20,27 @@ You will need python3 and the following python libraries:
 * ipykernel
 * jupyter
 
-Install using pipenv
+### Install using pipenv
 ```
-$ pip3 install pipenv
+$ sudo pip3 install pipenv
 $ pipenv install
+$ pipenv install act-api ipykernel jupyter
 ```
 
-Install using pip:
+### or Install using pip:
 
 ```
-$ pip3 install act-api ipykernel jupyter
-```
-
-Install using pipenv
-```
-$ pip3 install pipenv
-$ pipenv install
+$ sudo pip3 install act-api ipykernel jupyter
 ```
 
 # Start notebook
 
-After installation with pipenv
+### After installation with pipenv
 ```
 pipenv run jupyter notebook
 ```
 
-Or with jupyter installed globally
+### Or with jupyter installed globally
 
 ```
 jupyter notebook
